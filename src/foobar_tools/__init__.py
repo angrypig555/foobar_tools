@@ -1,2 +1,1 @@
-def hello() -> str:
-    return "Hello from foobar-tools!"
+from .math_funcs import is_even, is_odd
